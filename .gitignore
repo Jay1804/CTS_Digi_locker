@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Report output
+output/
+
+# Local venv (jay1) and secrets
+jay1/
+.env
+*.env
+
+# Generated reports
+*.xlsx
